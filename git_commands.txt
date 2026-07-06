@@ -37,3 +37,14 @@
    39  git status
    40  git restore testing.py
    41  git status
+    git push origin main
+  106  clear
+  107  cd document
+  108  cd Document
+  109  pwd
+  110  cd .
+  111  cd ..
+  112  cd
+  113  pwd
+  114  cd Documents
+  115  mkdir git-demo-new
